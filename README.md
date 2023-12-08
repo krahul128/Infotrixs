@@ -1,0 +1,2 @@
+# Infotrixs
+Monolithic website
